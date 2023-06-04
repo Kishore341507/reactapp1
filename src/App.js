@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 let name = "Kishore"
@@ -9,6 +9,7 @@ function App() {
       <li>Home</li>
       <li>About</li>
       <li>{name}</li>
+      <li>final</li>
     </nav>
     </>
   );
